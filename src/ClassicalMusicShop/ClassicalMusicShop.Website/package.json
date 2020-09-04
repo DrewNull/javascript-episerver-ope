@@ -24,7 +24,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "foundation-sites": "^6.4.4-rc1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
   },
